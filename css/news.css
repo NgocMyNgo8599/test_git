@@ -1,0 +1,25 @@
+/*Layout*/
+body, html {
+    height: 100%;
+    background-repeat: no-repeat;
+}
+.container-md {
+    margin-top: 10px;
+}
+/*News*/
+.news-img{
+    max-width: 100%;
+    margin-bottom: 5px;
+}
+.news-title{
+    font-weight: bold;
+    width: 100%;
+}
+.caption {
+    font-size: 0.7rem;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 4;
+  }
+

@@ -1,0 +1,39 @@
+/*Layout*/
+body, html {
+    height: 100%;
+    background-repeat: no-repeat;
+}
+
+/*News*/
+.news{
+    margin-top: 10px;
+    max-height: 515px;
+}
+.home-img{
+    max-width: 100%;
+    margin-bottom: 5px;
+}
+.home-title{
+    max-width: 100%;
+    font-weight: bold;
+    font-size: 1.25rem;
+}
+.section {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 5;
+  }
+  /*Thong ke*/
+  .table {
+      margin-top: 5px;
+      max-width: 100%;
+      
+  }
+  .thongke{
+    justify-content: center;
+ }
+
+
+
+
